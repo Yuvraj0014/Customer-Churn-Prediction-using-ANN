@@ -1,4 +1,4 @@
-# 🏦 Customer Churn Prediction App using Artificial Neural Network 🤖
+  # 🏦 Customer Churn Prediction App using Artificial Neural Network 🤖
 
 ## 📋 Project Overview
 This is a sophisticated customer churn prediction web application built with Streamlit and TensorFlow. The app predicts whether a bank customer is likely to leave the bank's services based on various customer attributes. 
@@ -112,5 +112,7 @@ Once all data is entered, click the '🔮 Predict' button to receive:
    - Low Risk (≤ 0.5): "✅ The customer is unlikely to churn" 😊
 
 ## 📸 Application Interface
-Below is a screenshot of the application's user interface showing the input parameters and prediction output. The interface is designed to be user-friendly with clear sections for data input and prominent display of the churn prediction results.000000000000000000000000000000
+Below is a screenshot of the application's user interface showing the input parameters and prediction output. The interface is designed to be user-friendly with clear sections for data input and prominent display of the churn prediction results.
 ![image](https://github.com/user-attachments/assets/80791239-df06-4cc0-bb25-070bd8c69568)
+![image](https://github.com/user-attachments/assets/158ab3a2-e980-4d04-bedb-e5d9d1fe1fc0)
+
