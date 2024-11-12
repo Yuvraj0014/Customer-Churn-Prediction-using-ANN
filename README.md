@@ -111,6 +111,5 @@ Once all data is entered, click the '🔮 Predict' button to receive:
    - High Risk (> 0.5): "⚠️ The customer is likely to churn" 😥
    - Low Risk (≤ 0.5): "✅ The customer is unlikely to churn" 😊
 
-### Prediction:
-Once all fields are filled, click the "Predict Churn Probability" button to get the prediction and the app will output the probability that the customer will churn based on the inputs provided
-
+## 📸 Application Interface
+Below is a screenshot of the application's user interface showing the input parameters and prediction output. The interface is designed to be user-friendly with clear sections for data input and prominent display of the churn prediction results.
