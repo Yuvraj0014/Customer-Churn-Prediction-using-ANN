@@ -49,12 +49,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Results 
-Too lazy to adult today? Join the club! Ditch the to-do list and dive into the Streamlight app instead. It's right here, waiting for you!
-```
-cuspre.streamlit.app
-```
-
 ## 🚀 Usage
 The application features an intuitive interface divided into two panels for easy data input:
 
@@ -117,4 +111,11 @@ Below is a screenshot of the application's user interface showing the input para
 
 ## 🎯 Output Screen
 ![image](https://github.com/user-attachments/assets/158ab3a2-e980-4d04-bedb-e5d9d1fe1fc0)
+
+## Results 
+Too lazy to adult today? Join the club! Ditch the to-do list and dive into the Streamlight app instead. It's right here, waiting for you!
+```
+customer-churn-prediction-using-ann.streamlit.app
+```
+
 
