@@ -100,7 +100,7 @@ The application features an intuitive interface divided into two panels for easy
    - Has card: Yes (1) / No (0)
    - Binary selection
 
-## 🎯 Prediction Output
+## 🎯 Output Prediction
 Once all data is entered, click the '🔮 Predict' button to receive:
 
 ### 1. Churn Probability Score 📊
@@ -115,6 +115,6 @@ Once all data is entered, click the '🔮 Predict' button to receive:
 Below is a screenshot of the application's user interface showing the input parameters and prediction output. The interface is designed to be user-friendly with clear sections for data input and prominent display of the churn prediction results.
 ![image](https://github.com/user-attachments/assets/80791239-df06-4cc0-bb25-070bd8c69568)
 
-## Output Screen
+## 🎯 Output Screen
 ![image](https://github.com/user-attachments/assets/158ab3a2-e980-4d04-bedb-e5d9d1fe1fc0)
 
