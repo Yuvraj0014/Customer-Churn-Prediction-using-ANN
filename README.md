@@ -112,5 +112,5 @@ Once all data is entered, click the '🔮 Predict' button to receive:
    - Low Risk (≤ 0.5): "✅ The customer is unlikely to churn" 😊
 
 ## 📸 Application Interface
-Below is a screenshot of the application's user interface showing the input parameters and prediction output. The interface is designed to be user-friendly with clear sections for data input and prominent display of the churn prediction results.
-
+Below is a screenshot of the application's user interface showing the input parameters and prediction output. The interface is designed to be user-friendly with clear sections for data input and prominent display of the churn prediction results.000000000000000000000000000000
+![image](https://github.com/user-attachments/assets/80791239-df06-4cc0-bb25-070bd8c69568)
