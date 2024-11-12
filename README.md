@@ -12,15 +12,15 @@ This is a sophisticated customer churn prediction web application built with Str
 Making it an effective tool for proactive customer retention strategies in the banking sector.
 
 ## 💻 Requirements
-```python
-# Core Dependencies
-numpy         # For numerical operations
-pandas        # For data manipulation
-streamlit     # For web interface
-tensorflow    # For neural network model
-scikit-learn  # For data preprocessing
-pickle        # For model serialization
-```
+
+1.tensorflow
+2.pandas
+3.numpy
+4.scikit-learn
+5.tensorboard
+6.matplotlib
+7.streamlit
+8.scikeras
 
 ## 🚀 Usage
 The application features an intuitive interface divided into two panels for easy data input:
